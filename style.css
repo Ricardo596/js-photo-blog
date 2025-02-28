@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
 
-
+/**Inizio header **/
 .font {
     font-family: "Fredoka", serif;
     position: absolute;
-    top: 5%;
+    top: 9%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
     font-size: 90px;
     
 }
@@ -15,5 +15,19 @@
        margin-right: auto;
        width: 100%;
        height: 150px;
-       object-fit: cover;
+}
+
+/**Fine header**/
+
+
+.dimension {
+    width: 100%;
+    
+}
+
+.container {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
