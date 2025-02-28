@@ -7,11 +7,13 @@
     justify-content: center;
     position: top;
     position: relative;
+    z-index: 10;
 }
 .wall {
        display: block;
        margin-left: auto;
        margin-right: auto;
-       width: 50%;
-       
+       width: 100%;
+       height: 100vh;
+       object-fit: cover;
 }
