@@ -50,8 +50,8 @@ main {
 .posizione2 { 
      display: flex;
      float: inline-end;
-    margin-right: 28rem;
-    
+    margin-right: 25rem;
+    margin-top: 30px;
     gap: 20px;
 
 
