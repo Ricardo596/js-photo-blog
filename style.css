@@ -21,17 +21,8 @@
 /**Fine header**/
 
 
-.dimension {
-    width: 100%;
-    background-size: cover;
-}
 
-.container {
-    position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+
 
 main {
     background: url(img/cork.png);
@@ -41,7 +32,16 @@ main {
     width: 100%;
     height:800px;
 }
-.posizione {
+
+
+/* .container {
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+/* .posizione {
     
     display: flex;
     justify-content: center;
@@ -56,4 +56,18 @@ main {
 
 
 
+} */
+
+.container {
+    width: 100%;
+    height: 350px;
+    background-color: red;
+
+}
+
+.container_row{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(178, 243, 0);
+    margin-top: 2%;
 }
