@@ -49,6 +49,13 @@ main {
     padding-left: 2%;
 }
 
+.terra {
+    width: 200px;
+    height: auto;
+    
+
+}
+
 @media(min-width: 768px) {
     .three_columns {
         display: flex;
