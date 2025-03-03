@@ -52,7 +52,8 @@ main {
 .terra {
     width: 200px;
     height: auto;
-    
+   position: absolute;
+   left: -400px;
 
 }
 
