@@ -39,7 +39,7 @@ main {
     
 }
 .container img{
-    margin-left: 45%;
+    column-count: 3;
 }
 .polaroid{
     margin: 2%;
@@ -52,8 +52,6 @@ main {
 .terra {
     width: 200px;
     height: auto;
-   position: absolute;
-   left: -400px;
 
 }
 
