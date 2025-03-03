@@ -39,7 +39,7 @@ main {
     
     
 }
-.container img{
+.container{
     column-count: 3;
 }
 .polaroid{
